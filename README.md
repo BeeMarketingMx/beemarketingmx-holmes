@@ -20,6 +20,10 @@ Production build to `/public`:
 
 ### `yarn build`
 
+Production publish to `gh-pages`:
+
+### `yarn publish-pages`
+
 Cleanup cache (often fixes misc errors when run before `yarn dev`):
 
 ### `yarn clean`
